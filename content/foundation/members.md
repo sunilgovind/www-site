@@ -525,6 +525,7 @@ N.B. the listing below is optional; there is a separate summary of  [members](ht
 | stoddard | Bill Stoddard | [APR](http://apr.apache.org/) ; [httpd](http://httpd.apache.org/) ; bsf|
 | striker | Sander Striker | [APR](http://apr.apache.org/) ; [commons](http://commons.apache.org/) ; [httpd](http://httpd.apache.org/) ; [incubator](http://incubator.apache.org/) ; infrastructure|
 | struberg | Mark Struberg |
+| sunilg | Sunil Govindan | [Hadoop](http://hadoop.apache.org) ; [Submarine](http://submarine.apache.org)|
 | supun | Supun Kamburugamuva |
 | susie | Susan Wu |
 | sussman | Ben Collins-Sussman |
